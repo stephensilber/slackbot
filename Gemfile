@@ -43,3 +43,5 @@ group :development, :test do
   gem 'spring'
 end
 
+# Ruby bot library for Slack chat
+gem 'slackbotsy'
