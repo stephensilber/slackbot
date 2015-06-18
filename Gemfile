@@ -45,3 +45,9 @@ end
 
 # Ruby bot library for Slack chat
 gem 'slackbotsy'
+
+# Ruby NLP date library
+gem 'chronic'
+
+# Google Calendar
+gem 'google_calendar'
